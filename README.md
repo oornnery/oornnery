@@ -1,29 +1,43 @@
-### Hi there, I’m @oornnery 👋
+### Hi, I’m @oornnery 👋
 
-Engineer working across VoIP/SIP, networking, Python 3 backend, DevOps, and security, with a terminal-first workflow on Arch Linux + Hyprland btw ✨
+VoIP Engineer at IDT Brasil working across SIP, networking, Python 3 backend with FastAPI, DevOps, and security, with a terminal-first workflow on Arch Linux + Hyprland
+Passionate about building TUI tools, protocol tooling, and automation for large-scale voice/data environments, always keeping things reproducible and minimal on Linux
 
-### What I’m building 🚀
+### What I build 🚀
 
 - Maintaining icmpx: a didactic ICMP toolkit for ping/traceroute experiments and network diagnostics in Python 3
 - Maintaining sipx: a didactic SIP library with registration, dialogs, and call control for VoIP flows
 - Maintaining yealink-manager: helpers for provisioning and device management workflows in Yealink environments
 - Dotfiles: reproducible, terminal-first setup for Linux with Hyprland and friends
+- TUI apps with Textual for SSH-like sessions, chat components, and autocomplete
 
-### Stack and interests 🧪
+### Telecom and support 📡
 
-- Languages: Python 3, Bash, Go, JavaScript/TypeScript
-- Protocols: SIP, RTP, SDP, TCP/UDP, ICMP, DNS, HTTP
-- Backend: FastAPI, async I/O, APIs, VoIP metrics (ASR, ACD, PDD) and observability
-- Tooling: Linux (Arch), Docker, uv/uvx, Neovim, tmux, Git, Textual TUI
-- Desktop: Arch Linux btw with Hyprland
+- Technical support for SIP Trunk/Link, PABX, and Call Center, handling provisioning, routing, and troubleshooting end to end
+- Ticket and incident workflows using JIRA, Salesforce, and BA (Abnormality Bulletin) for call management
+- Configuration and maintenance of voice and data equipment across heterogeneous environments
+- Service monitoring with Zabbix, Grafana, VoIP Monitor, and Hepic for quality and availability
+- Log analysis with Splunk and PCAP focusing on SIP, TDM/VoIP, DTMF, and SDP for root-cause analysis
+
+### Development and tech 🧩
+
+- Backend: Python 3, FastAPI, async I/O, APIs, VoIP metrics (ASR, ACD, PDD) and observability
+- Frontend: React, TypeScript, and JavaScript for operational interfaces and admin tools
+- DevOps: containerized deployments with Docker/Podman and reproducible environments
+- Linux: system administration and dotfiles-driven workflows on Arch Linux btw + Hyprland
 
 ### Highlights ⭐
 
 - Async SIP client with registration, dialogs, and call control for didactic call flows
-- TUI apps with Textual for SSH-like sessions, chat components, and autocomplete
-- VoIP analytics dashboards for SBCs and POP monitoring with SPL metrics
+- TUI apps that emulate SSH sessions and enhance operator ergonomics in the terminal-first stack
+- VoIP analytics dashboards for SBCs and POP monitoring with SPL-based insights
 
-### Contact and socials 🌐
+### Training and automation 🎓
+
+- Conducting product/service webinars and internal enablement to scale team knowledge
+- Implementing automation that reduces toil and accelerates incident response and provisioning
+
+### Socials and contact 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/fabiohcsouza/)
 - [X](https://x.com/oornnery)
