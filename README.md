@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oornnery
-- 👀 I’m interested in python, pentest and cybersecurity.
+- 👀 I’m interested in python, network, voip, pentest and cybersecurity.
 - 🌱 I’m currently learning information security and computer networks
 - 📫 How to reach me ...
 
