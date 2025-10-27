@@ -3,18 +3,10 @@
 VoIP Engineer at IDT Brasil working across SIP, networking, Python 3 backend with FastAPI, DevOps, and security, with a terminal-first workflow on Arch Linux + Hyprland
 Passionate about building TUI tools, protocol tooling, and automation for large-scale voice/data environments, always keeping things reproducible and minimal on Linux
 
-### What I build 🚀
-
-- Maintaining icmpx: a didactic ICMP toolkit for ping/traceroute experiments and network diagnostics in Python 3
-- Maintaining sipx: a didactic SIP library with registration, dialogs, and call control for VoIP flows
-- Maintaining yealink-manager: helpers for provisioning and device management workflows in Yealink environments
-- Dotfiles: reproducible, terminal-first setup for Linux with Hyprland and friends
-- TUI apps with Textual for SSH-like sessions, chat components, and autocomplete
-
-### Telecom and support 📡
+### VoIP Engineer 📡
 
 - Technical support for SIP Trunk/Link, PABX, and Call Center, handling provisioning, routing, and troubleshooting end to end
-- Ticket and incident workflows using JIRA, Salesforce, and BA (Abnormality Bulletin) for call management
+- Ticket and incident workflows and BA (Abnormality Bulletin) for call management
 - Configuration and maintenance of voice and data equipment across heterogeneous environments
 - Service monitoring with Zabbix, Grafana, VoIP Monitor, and Hepic for quality and availability
 - Log analysis with Splunk and PCAP focusing on SIP, TDM/VoIP, DTMF, and SDP for root-cause analysis
